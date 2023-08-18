@@ -7,9 +7,13 @@ git clone https://github.com/AndJ0x8/Verify
 
 cd Verify/
 
+chmod +x setup.sh
+
 bash setup.sh
 
 systemctl start tor
+
+chmod +x verify.sh
 
 bash verify.sh
 
