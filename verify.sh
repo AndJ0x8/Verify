@@ -81,7 +81,7 @@ function menu() {
             check_onion_status "$onion_url"
             ;;
         2)
-            read -p "Introduce la ruta del archivo .txt con direcciones .onion: " file_path
+            read -p "Introduce la ruta del archivo  con direcciones .onion: " file_path
             if [ ! -f "$file_path" ]; then
                 echo -e "${red}Archivo no encontrado.${end}"
             else
