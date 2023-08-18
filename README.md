@@ -9,3 +9,16 @@ cd Verify/
 
 bash verify.sh
 
+<p align="center">
+  <img src="images/image1.jpg">
+</p>
+
+<p align="center">
+  <img src="images/image2.jpg">
+</p>
+
+<p align="center">
+  <img src="images/image3.jpg">
+</p>
+
+
