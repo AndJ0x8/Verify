@@ -10,15 +10,15 @@ cd Verify/
 bash verify.sh
 
 <p align="center">
-  <img src="images/image1.jpg">
+  <img src="images/image1.JPG">
 </p>
 
 <p align="center">
-  <img src="images/image2.jpg">
+  <img src="images/image2.JPG">
 </p>
 
 <p align="center">
-  <img src="images/image3.jpg">
+  <img src="images/image3.JPG">
 </p>
 
 
