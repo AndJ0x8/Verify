@@ -7,6 +7,10 @@ git clone https://github.com/AndJ0x8/Verify
 
 cd Verify/
 
+bash setup.sh
+
+systemctl start tor
+
 bash verify.sh
 
 <p align="center">
